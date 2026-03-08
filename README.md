@@ -61,8 +61,11 @@ Folium
 ## How to Run
 
 Install dependencies:
-
+pip install -r requirements.txt
 ---
+
+Run dashboard:
+streamlit run dashboard/app.py
 
 ## Future Improvements
 
