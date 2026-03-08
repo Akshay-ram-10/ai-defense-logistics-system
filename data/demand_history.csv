@@ -1,0 +1,11 @@
+day,base,food_demand
+1,Base_A,100
+2,Base_A,120
+3,Base_A,140
+4,Base_A,160
+5,Base_A,180
+1,Base_B,90
+2,Base_B,110
+3,Base_B,130
+4,Base_B,140
+5,Base_B,150

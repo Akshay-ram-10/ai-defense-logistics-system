@@ -1,0 +1,6 @@
+base,latitude,longitude,supply_type,quantity,deadline_hours
+Base_A,28.61,77.21,Food,200,12
+Base_B,28.70,77.30,Fuel,150,8
+Base_C,28.65,77.10,Medicine,100,6
+Base_D,28.55,77.25,Food,300,10
+Base_E,28.75,77.15,Fuel,180,9
