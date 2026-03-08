@@ -61,3 +61,12 @@ Folium
 ## How to Run
 
 Install dependencies:
+
+---
+
+## Future Improvements
+
+- Reinforcement Learning route optimization
+- Large-scale logistics simulation
+- Real-time supply tracking
+- Advanced fuel optimization algorithms
