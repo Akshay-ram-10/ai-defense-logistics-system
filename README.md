@@ -39,3 +39,25 @@ Folium
 ---
 
 ## System Architecture
+
+---
+
+## Dashboard Preview
+
+### Logistics Dashboard
+
+![Dashboard](images/dashboard.png)
+
+### Map Visualization
+
+![Map](images/map.png)
+
+### Demand Prediction
+
+![Prediction](images/prediction.png)
+
+---
+
+## How to Run
+
+Install dependencies:
