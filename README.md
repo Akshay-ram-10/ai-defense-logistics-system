@@ -1,49 +1,41 @@
-# AI Defense Logistics Optimization System
+# AI Logistics Optimization System
 
-An AI-powered logistics optimization platform designed to simulate supply chain planning for strategic operations.
+An AI-powered logistics planning platform that predicts supply demand,
+prioritizes delivery locations, optimizes routes, and visualizes logistics
+operations through an interactive dashboard.
+
+---
+
+## Project Overview
+
+This system simulates a strategic logistics planning system where supplies must be delivered efficiently to multiple bases.
+
+The platform uses **Machine Learning, Graph Algorithms, and Data Visualization** to analyze and optimize logistics operations.
+
+---
 
 ## Features
 
 - Demand prediction using Machine Learning
-- Base priority ranking system
+- Priority-based delivery planning
 - Truck dispatch simulation
 - Route optimization using graph algorithms
-- Fuel consumption analysis
+- Fuel consumption estimation
 - Interactive logistics dashboard
 - Map-based visualization of supply bases
 
-## Technologies Used
+---
+
+## Technology Stack
 
 Python  
 Pandas  
+NumPy  
 Scikit-learn  
 NetworkX  
 Streamlit  
-Folium
+Folium  
 
-## Project Architecture
+---
 
-Data Layer → Demand Prediction → Priority Ranking → Truck Dispatch → Route Optimization → Fuel Optimization → Dashboard
-
-## How to Run
-
-Install dependencies:
-
-pip install -r requirements.txt
-
-Run dashboard:
-
-streamlit run dashboard/app.py
-
-## Example Outputs
-
-- Supply demand prediction
-- Priority delivery planning
-- Fuel usage estimation
-- Logistics visualization
-
-## Future Improvements
-
-- Reinforcement Learning route optimization
-- Real-time GPS simulation
-- Large-scale logistics simulation
+## System Architecture
