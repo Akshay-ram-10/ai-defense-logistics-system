@@ -46,15 +46,15 @@ Folium
 
 ### Logistics Dashboard
 
-![Dashboard](images/dashboard.png)
+![Dashboard](images/Screenshot 2026-03-08 073511.png)
 
 ### Map Visualization
 
-![Map](images/map.png)
+![Map](images/Screenshot 2026-03-08 073545.png)
 
 ### Demand Prediction
 
-![Prediction](images/prediction.png)
+![Prediction](images/Screenshot 2026-03-08 073524.png)
 
 ---
 
